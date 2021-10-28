@@ -1,2 +1,2 @@
-mats = "Mats er låk"
+mats = "Mats er kul"
 print(mats)
